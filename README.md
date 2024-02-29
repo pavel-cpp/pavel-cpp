@@ -1,9 +1,8 @@
 ### Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="72">, I'm Desktop developer 
-### 
 
+---
 
-
-[![codewars](https://www.codewars.com/users/pavel-cpp/badges/large)](https://www.codewars.com/users/pavel-cpp)
+[![codewars](https://www.codewars.com/users/pavel-cpp/badges/small)](https://www.codewars.com/users/pavel-cpp)
 
 ### Some information about me:
 
