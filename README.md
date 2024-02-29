@@ -1,6 +1,4 @@
-## Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="36">, I'm Desktop developer 
-
----
+## Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="36">, I'm Desktop developer
 
 [![codewars](https://www.codewars.com/users/pavel-cpp/badges/small)](https://www.codewars.com/users/pavel-cpp)
 
