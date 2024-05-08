@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **C++, Qt, Boost, oneTBB**
 - 📫 How to reach me: **itztoru@vk.com**
 - 🌍 I speak **Russian (native), English (B2)**
-- 💼 I'm currently looking for **job** and **cooperation**
+- 🌆 I am currently employed by **ATP**
+- 💼 Also looking for **job** and **cooperation**
 
 ### My languages: 
 <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
