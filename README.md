@@ -4,8 +4,7 @@
 
 ### Some information about me:
 
-- 🧑‍💻 I'm a student at **St. Petersburg State University of Telecommunications**
-- 🌱 I’m currently learning **C++, Qt, Boost, oneTBB**
+- 🌱 I’m currently learning **System Design**
 - 📫 How to reach me: **itztoru@vk.com**
 - 🌍 I speak **Russian (native), English (B2)**
 - 🌆 I am currently employed by **ATP**
